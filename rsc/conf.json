@@ -1,0 +1,7 @@
+{
+  "urls": {
+    "sc_host":"https://movie.daum.net",
+    "sc_url_year":"/boxoffice/yearly?year={year}",
+    "sc_url_id":"/moviedb/main?movieId={movie_id}"
+  }
+}
